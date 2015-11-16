@@ -1,0 +1,2 @@
+# JsMin-Helper
+Minify Javascript
